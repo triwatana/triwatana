@@ -8,8 +8,7 @@ I'm passionate about using data to uncover insights, solve real-world problems, 
 - 📊 Data Science & Analytics
 - 🤖 Machine Learning & AI
 - 📈 Business Intelligence & Data-Driven Strategy
-- 🎵 Music Analytics & Recommendation Systems
-
+- 
 ### 🛠️ Tools & Technologies
 Python · SQL · R · Pandas · NumPy · BigQuery · Tableau · Excel
 
