@@ -1,16 +1,8 @@
 # Hi, I'm Tri Watanasuparp! 👋🏼
 
-Nice to meet you! I'm a Northeastern University graduate with an **M.S. in Data Science** and a **B.S. in Computer Science and Business Administration**, with a concentration in Marketing Analytics.
+I'm a Northeastern University graduate with an **M.S. in Data Science** and a **B.S. in Computer Science and Business Administration**, specializing in Marketing Analytics.
 
-I'm passionate about using data to uncover insights, solve real-world problems, and help businesses make smarter decisions. I enjoy working across data science, analytics, and machine learning to turn complex data into meaningful, actionable insights.
-
-### 🔍 What I'm Interested In
-- 📊 Data Science & Analytics
-- 🤖 Machine Learning & AI
-- 📈 Business Intelligence & Data-Driven Strategy
- 
-### 🛠️ Tools & Technologies
-Python · SQL · R · Pandas · NumPy · BigQuery · Tableau · Excel
+I bridge data, technology, and business to solve complex problems and drive measurable impact. My work spans data science, machine learning, and business analytics, with a focus on transforming raw data into actionable insights, building data-driven solutions, and applying AI to real-world challenges.
 
 ### 🤝 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/tri-watanasuparp/)
